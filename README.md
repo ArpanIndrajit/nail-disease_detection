@@ -79,10 +79,10 @@ Nail diseases such as fungal infections, pitting, and melanoma are often early i
 
 ## 👨‍💻 Authors
 
-- **Shuvendu Parida** – Centurion University of Technology & Management
+- **Arpana Indrajit** – Centurion University of Technology & Management
 - Co-authors:
   - Mr. Santosh Kumar Pradhan
-  - Mr. Arpan Indrajit
+  - Mr. Shuvendu Parida
   - Mr. Lalit Kumar Behera
   - Dr. Sujata Chakravarty
 
